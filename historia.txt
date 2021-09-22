@@ -2,4 +2,6 @@ Esta es la historia de Juan Camilo Garzon Pinzon
 
 tengo 28 años y me encuentro aprendiendo sobre Git y GitHub
 
-Este es el primer archivo y texto que me encuentro escribiendo y haciendo pruebas
+Este es el primer archivo y texto que me encuentro escribiendo y haciendo pruebas.
+
+esta es la prueba numero 1 de mi parte.
